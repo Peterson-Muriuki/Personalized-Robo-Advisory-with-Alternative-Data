@@ -51,7 +51,7 @@ The app includes:
 - CSV export for signals and portfolio equity curve
 
 ---
-## 🚀 Tech Stack & Methods
+## Tech Stack & Methods
 
 **Core Stack**
 - Python 3.11  
