@@ -22,6 +22,18 @@
 
 **Alt-Data Robo Advisor** is a multi-ticker trading signal generator and portfolio backtester powered by Python. It combines historical price data and technical features to generate **BUY / SELL / HOLD signals** for selected tickers, with confidence scores.  
 
+Personalized-Robo-Advisory-with-Alternative-Data/
+├── app.py
+├── config.py
+├── requirements.txt
+├── README.md
+├── src/
+│   ├── data_loader.py
+│   ├── features.py
+│   ├── signal_model.py
+│   ├── signal_generator.py
+│   └── backtester.py
+
 The app includes:
 
 - Multi-ticker support (AAPL, MSFT, GOOG, TSLA, NVDA…)
